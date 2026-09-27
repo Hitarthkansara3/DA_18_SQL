@@ -37,16 +37,3 @@ The project uses a `sales` table with the following columns:
 
 The SQL file contains 20 practice tasks covering different filtering and conditional query scenarios.
 
-## Technologies Used
-
-- SQL
-- MySQL
-
-## Purpose
-
-The purpose of this project is to practice SQL filtering, logical operators, sorting, and writing queries using sales transaction data.
-
-## File
-
-```text
-sales_transactions.sql
